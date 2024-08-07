@@ -1,26 +1,24 @@
-title: Wendell Thomas
+title: jeong hyunseong
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  he is GGulGGuli
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sms6874.github.io"
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
+name: jeong hyunseong
 tagline: Full Stack Developer
 about-description: # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic:  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
+email: sms9049097@naver.com # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: sms6874 # Add your Github handle
+twitter: # Add your Twitter handle
 
 # Tracker
 analytics:
