@@ -10,7 +10,7 @@ blog_theme: dark # Or use dark
 name: jeong hyunseong
 tagline: Full Stack Developer
 about-description: # Add Discription
-pic:  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: 정현성.jpg # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: sms9049097@naver.com # Add your Email address
