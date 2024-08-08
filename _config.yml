@@ -1,27 +1,30 @@
-title: jeong hyunseong
+title: jung hyunsung
 description: > # this means to ignore newlines until "baseurl:"
-  he is GGulGGuli
-baseurl: "/" # the subpath of your site, e.g. /blog
+ 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sms6874.github.io"
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: jeong hyunseong
-tagline: Full Stack Developer
-about-description: # Add Discription
+name: jung hyunsung
+tagline: FRIEND
+about-description: Let me introduce my friend # Add Discription   
 pic: 정현성.jpg # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: sms9049097@naver.com # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: sms6974@naver.com # Add your Email address
+phone: 010-1234-5678 # Add your Phone number
+website:  # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: sms6874 # Add your Github handle
-twitter: # Add your Twitter handle
+github: sms6974 # Add your Github handle
+instagram:
+  - seo_.03_22 # Add your Twitter handle
+  - hyunsung2326 # Add your Twitter handle
+  - kangjimin823 # Add your Twitter handle
 
 # Tracker
-analytics:
+analytics: 
 
 # Comments
 discus-identifier: # Add your Disqus identifier
